@@ -1,0 +1,15 @@
+{"timestamp": "2026-05-20T13:29:36.775401+00:00", "level": "ERROR", "service": "login", "message": "unexpected response from dependency", "user": "casey", "request_id": "req-41360", "status_code": 502, "response_ms": 485}
+{"timestamp": "2026-05-20T13:29:36.775401+00:00", "level": "INFO", "service": "login", "message": "request completed", "user": "sam", "request_id": "req-91465", "status_code": 500, "response_ms": 1109}
+{"timestamp": "2026-05-20T13:29:36.775401+00:00", "level": "WARN", "service": "checkout", "message": "high memory usage", "user": "alex", "request_id": "req-88454", "status_code": 408, "response_ms": 1723}
+{"timestamp": "2026-05-20T13:29:36.775401+00:00", "level": "INFO", "service": "search", "message": "request completed", "user": "alex", "request_id": "req-57296", "status_code": 404, "response_ms": 688}
+{"timestamp": "2026-05-20T13:29:36.776401+00:00", "level": "INFO", "service": "payments", "message": "user session refreshed", "user": "morgan", "request_id": "req-42852", "status_code": 200, "response_ms": 774}
+{"timestamp": "2026-05-20T13:30:16.012749+00:00", "level": "INFO", "service": "payments", "message": "request completed", "user": "casey", "request_id": "req-74825", "status_code": 200, "response_ms": 149}
+{"timestamp": "2026-05-20T13:30:16.012749+00:00", "level": "INFO", "service": "checkout", "message": "cache hit", "user": "jordan", "request_id": "req-85935", "status_code": 200, "response_ms": 283}
+{"timestamp": "2026-05-20T13:30:16.012749+00:00", "level": "WARN", "service": "login", "message": "retrying external service", "user": "casey", "request_id": "req-21831", "status_code": 408, "response_ms": 1420}
+{"timestamp": "2026-05-20T13:30:16.012749+00:00", "level": "WARN", "service": "search", "message": "slow response detected", "user": "casey", "request_id": "req-58955", "status_code": 200, "response_ms": 1119}
+{"timestamp": "2026-05-20T13:30:16.012749+00:00", "level": "INFO", "service": "payments", "message": "request completed", "user": "jordan", "request_id": "req-41757", "status_code": 200, "response_ms": 1444}
+{"timestamp": "2026-05-20T13:30:31.430390+00:00", "level": "ERROR", "service": "checkout", "message": "database timeout", "user": "taylor", "request_id": "req-60063", "status_code": 500, "response_ms": 135}
+{"timestamp": "2026-05-20T13:30:31.430390+00:00", "level": "INFO", "service": "search", "message": "background job completed", "user": "jordan", "request_id": "req-20213", "status_code": 200, "response_ms": 177}
+{"timestamp": "2026-05-20T13:30:31.430390+00:00", "level": "INFO", "service": "profile", "message": "cache hit", "user": "morgan", "request_id": "req-38564", "status_code": 200, "response_ms": 177}
+{"timestamp": "2026-05-20T13:30:31.430390+00:00", "level": "INFO", "service": "payments", "message": "request completed", "user": "taylor", "request_id": "req-49151", "status_code": 204, "response_ms": 1754}
+{"timestamp": "2026-05-20T13:30:31.430390+00:00", "level": "WARN", "service": "profile", "message": "high memory usage", "user": "morgan", "request_id": "req-75284", "status_code": 200, "response_ms": 725}
