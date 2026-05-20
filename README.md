@@ -4,6 +4,8 @@ This tiny project creates fake application logs that are easy to understand and 
 
 Each log line is JSON, so Splunk can automatically find fields like `level`, `service`, `user`, `status_code`, and `response_ms`.
 
+If you want the deeper SOC-style banking scenario, use [BANKING_SOC_LAB.md](BANKING_SOC_LAB.md).
+
 ## 1. Create Logs
 
 Run this from the project folder:

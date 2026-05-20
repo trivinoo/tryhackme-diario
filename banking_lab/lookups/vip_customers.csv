@@ -1,0 +1,5 @@
+customer_id,customer_name,vip,home_country,home_city
+cust_1001,Ava Brooks,false,US,Miami
+cust_1002,Noah Carter,false,US,Atlanta
+cust_1042,Mia Rivera,true,US,Orlando
+cust_1077,Liam Patel,false,US,Tampa

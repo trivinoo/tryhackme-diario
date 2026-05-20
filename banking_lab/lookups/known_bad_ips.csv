@@ -1,0 +1,4 @@
+src_ip,threat_name,risk,country
+185.22.10.9,credential_stuffing_node,high,RU
+45.155.205.11,fraud_proxy_exit,high,NL
+102.129.143.88,anonymous_vpn,medium,BR
