@@ -1,1 +1,0 @@
-{"case_id": "CASE-7001", "customer_id": "cust_1042", "customer_name": "Mia Rivera", "event_type": "case_created", "message": "account takeover suspected after high-risk wire transfer", "priority": "high", "source": "fraud_case_system", "status": "open", "timestamp": "2026-05-20T13:09:44.284268+00:00"}
