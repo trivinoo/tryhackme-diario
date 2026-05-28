@@ -1,0 +1,259 @@
+Cybersecurity Topics Checklist
+
+1. Computer and Networking Fundamentals
+- How computers work
+- Operating systems basics
+- Files, processes, memory, and permissions
+- CLI basics: Windows PowerShell, Linux shell, Bash
+- LAN, WAN, internet, routers, switches, access points
+- IP addresses: IPv4, IPv6, private vs public IPs
+- Subnetting and CIDR
+- MAC addresses and ARP
+- TCP vs UDP
+- Ports and sockets
+- DNS
+- DHCP
+- NAT
+- ICMP and ping
+- HTTP and HTTPS
+- TLS and certificates
+- VPNs
+- OSI model
+- TCP/IP model
+- Wireshark basics
+
+2. Linux Fundamentals
+- Linux filesystem
+- Users, groups, and permissions
+- sudo and privilege boundaries
+- Common commands: ls, cd, cat, grep, find, chmod, chown
+- Package managers
+- Services and systemd
+- Logs in /var/log
+- SSH
+- Cron jobs
+- Bash scripting basics
+
+3. Windows Fundamentals
+- Windows users and groups
+- NTFS permissions
+- Registry basics
+- Services
+- Event Viewer
+- PowerShell basics
+- Windows Defender
+- Active Directory overview
+- RDP
+- SMB
+- Windows logs
+
+4. Web Fundamentals
+- Client-server model
+- URLs
+- HTTP methods: GET, POST, PUT, DELETE
+- Status codes
+- Headers
+- Cookies and sessions
+- HTML, CSS, JavaScript basics
+- APIs and JSON
+- Authentication vs authorization
+- Same-origin policy and CORS
+- Browser developer tools
+- Burp Suite basics
+
+5. Security Fundamentals
+- CIA triad: confidentiality, integrity, availability
+- Authentication
+- Authorization
+- Accounting and auditing
+- Least privilege
+- Defense in depth
+- Risk, threat, vulnerability, impact
+- Security controls: preventive, detective, corrective
+- Hashing vs encryption vs encoding
+- Symmetric and asymmetric encryption
+- Password security
+- MFA
+- Backups
+- Patch management
+
+6. Threats and Attacks
+- Malware
+- Phishing
+- Social engineering
+- Brute force attacks
+- Credential stuffing
+- Man-in-the-middle attacks
+- Denial of service
+- SQL injection
+- Cross-site scripting
+- Command injection
+- File inclusion
+- Path traversal
+- Insecure deserialization
+- SSRF
+- Privilege escalation
+- Lateral movement
+- Data exfiltration
+
+7. Defensive Security and SOC
+- SOC roles
+- Alert triage
+- Log analysis
+- SIEM basics
+- Splunk basics
+- Microsoft Sentinel basics
+- Detection engineering basics
+- Indicators of compromise
+- Indicators of attack
+- Incident response lifecycle
+- Case management
+- False positives and tuning
+- Threat hunting basics
+- Endpoint detection and response
+- Network detection and response
+
+8. Offensive Security and Pentesting
+- Reconnaissance
+- Enumeration
+- Vulnerability scanning
+- Exploitation basics
+- Post-exploitation basics
+- Privilege escalation
+- Password attacks
+- Web application testing
+- Network service testing
+- Reporting findings
+- Rules of engagement
+- Legal and ethical boundaries
+- Nmap
+- Metasploit
+- Burp Suite
+- Gobuster or ffuf
+- Hydra
+- John the Ripper and Hashcat
+
+9. Web Application Security
+- OWASP Top 10
+- Broken access control
+- Cryptographic failures
+- Injection
+- Insecure design
+- Security misconfiguration
+- Vulnerable and outdated components
+- Identification and authentication failures
+- Software and data integrity failures
+- Logging and monitoring failures
+- SSRF
+- API security
+- JWT security
+- OAuth basics
+
+10. Cloud Security
+- Shared responsibility model
+- IAM
+- Cloud networking
+- Storage bucket security
+- Security groups and firewalls
+- Logging and monitoring
+- Secrets management
+- Serverless security
+- Container security in cloud
+- AWS security basics
+- Azure security basics
+- GCP security basics
+
+11. Active Directory Security
+- Domains, forests, and trusts
+- Domain controllers
+- Kerberos basics
+- LDAP basics
+- Group Policy
+- Users, groups, and privileges
+- Kerberoasting
+- AS-REP roasting
+- Pass the hash
+- Pass the ticket
+- Lateral movement
+- BloodHound basics
+- AD hardening
+
+12. Digital Forensics and Incident Response
+- Evidence handling
+- Disk imaging basics
+- Memory forensics
+- Timeline analysis
+- Windows artifacts
+- Linux artifacts
+- Browser artifacts
+- Email investigation
+- Malware triage
+- Incident containment
+- Eradication and recovery
+- Lessons learned reports
+
+13. Malware Analysis
+- Static analysis
+- Dynamic analysis
+- Sandboxes
+- File hashes
+- Strings
+- PE files
+- Obfuscation
+- Persistence techniques
+- Command and control
+- Reverse engineering basics
+- YARA rules
+
+14. Threat Intelligence
+- Threat actors
+- TTPs
+- MITRE ATT&CK
+- Kill chain
+- OSINT
+- IOC enrichment
+- Reputation checks
+- Intelligence reports
+- Tactical, operational, and strategic intelligence
+
+15. Secure Coding and AppSec
+- Secure SDLC
+- Input validation
+- Output encoding
+- Secrets management
+- Dependency security
+- SAST
+- DAST
+- Software composition analysis
+- Code review for security
+- Threat modeling
+- API security testing
+
+16. Governance, Risk, and Compliance
+- Policies and standards
+- Risk assessments
+- Security awareness
+- Asset inventory
+- Vulnerability management
+- Compliance basics
+- ISO 27001
+- NIST Cybersecurity Framework
+- SOC 2
+- GDPR and privacy basics
+
+17. Advanced Topics
+- Exploit development
+- Binary exploitation
+- Reverse engineering
+- Red team operations
+- Purple team exercises
+- Advanced detection engineering
+- Cloud attack paths
+- Kubernetes security
+- Supply chain security
+- DevSecOps
+- Zero trust architecture
+- Security architecture
+- Hardware and IoT security
+- Industrial control system security
+- AI security
